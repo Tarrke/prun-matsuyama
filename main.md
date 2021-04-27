@@ -18,7 +18,7 @@ All times are in CEST. Please refer to [this website](https://time.is/en/CEST) t
 
 
 | Shipment Order | From          | To          | Departure Time | Arrival Time   | Status    |
-|:-------------- |:-------------:| -----:      |:-------------- |:-------------- | ---------:|
-| #1             | MOR Station   | Montem      | 04/25  9:00 AM | 04/25 11:00 PM | Arrived   |
-| #2             | Montem        | MOR Station | 04/27 12:00 PM | 04/27  8:00 PM | In Flight |
-| #3             | MOR STation   | Montem      | 04/27 11:00 PM | ---            | Sceduled  |
+|:-------------- |:------------- |:----------- |:-------------- |:-------------- | ---------:|
+| #3             | MOR STation   | Montem      | 04/27 11:00 PM | ---            | :timer_clock: Sceduled  |
+| #2             | Montem        | MOR Station | 04/27 12:00 PM | 04/27  8:00 PM | :hourglass_flowing_sand: In Flight |
+| #1             | MOR Station   | Montem      | 04/25  9:00 AM | 04/25 11:00 PM | :heavy_check_mark: Arrived   |
