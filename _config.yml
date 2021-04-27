@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: Matsuyama Corp
 description: A metallurgist company that also makes deliveries
+plugins:
+  - jemoji
